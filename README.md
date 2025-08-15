@@ -1,4 +1,5 @@
 Gemini AI Chatbot with Tkinter
+
 A simple desktop chatbot application built with Python's Tkinter library that connects to the Google Gemini AI model. This provides a clean graphical user interface (GUI) for real-time conversations with the AI.
 
 ✨ Features
